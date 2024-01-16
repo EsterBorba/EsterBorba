@@ -9,7 +9,7 @@
 
 ###
 
-   <img align="right" height= "150" src="https://github.com/EsterBorba/EsterBorba/assets/153142944/6cc3001f-f39b-41ab-b119-1052d8142a12"/>
+   <img align="right" height= "150" src="https://github.com/EsterBorba/EsterBorba/assets/153142944/8e9f743d-bc3d-4f72-8cec-ef832765a712"/>
 
 
 
