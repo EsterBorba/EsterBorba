@@ -9,7 +9,8 @@
 
 ###
 
-<img align= "right" height= "150" SRC= "https://github.com//EsterBorba/assets/153142944/8ba41b45-fe0f-4646-a962-e4e2963959a1" />
+<img align= "right" height= "150" SRC= "![8cknrt (1)](https://github.com/EsterBorba/EsterBorba/assets/153142944/6cc3001f-f39b-41ab-b119-1052d8142a12)
+" />
 
 
 ###
