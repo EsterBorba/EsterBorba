@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/8ckn0p"  />
+<img align="right" height="150" src="github.com/EsterBorba/assets/153142944/b3105c5e-5b29-462a-a1c0-05736e1cb924"  />
 
 ###
 
