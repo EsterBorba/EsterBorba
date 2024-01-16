@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="![avatar Ester 2](https://github.com/EsterBorba/EsterBorba/assets/153142944/f0e18274-5af8-4bd4-bceb-9bbb673c3568)"  />
 
 ###
 
