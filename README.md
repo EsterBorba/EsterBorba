@@ -9,7 +9,7 @@
 
 ###
 
-<img align= "right" height= "150" SRC= "https://i.imgflip.com/65efzo.gif"/>
+<img align= "right" height= "150" SRC= ""/>
 
 
 ###
